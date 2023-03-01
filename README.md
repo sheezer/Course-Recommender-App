@@ -19,4 +19,46 @@ The detailed work on the Machine Learning Capstone project can be accessed here:
 
 4. The KNN model does not run because of space constraints on the streamlit platform. The code is fine but the required memory for KNN similarity matrix is very large. Therefore, **do not use the KNN model**.
 
-###
+### backend.py
+
+The backend python file containing the code that runs in the background. Contains all the machine learning code.
+
+### recommender_app.py
+
+The recommender_app python file contains all the code required to create the streamlit app's basic structure.
+
+### requirements.txt
+
+The requirements file containing details of all the packages and their versions required to run the application successfully.
+
+### course_embeddings.csv
+
+Course embeddings data to be used in the app.
+
+### course_genre.csv
+
+Course genre data to be used in the app.
+
+### course_processed.csv
+
+Processed course data to be used in the app.
+
+### courses_bow.csv
+
+Bag-of-Words course data to be used in the app.
+
+### ratings.csv
+
+Ratings data to be used in the app.
+
+### sim.csv
+
+Similarity scores data to be used in the app.
+
+### user_embeddings.csv
+
+User embeddings data to be used in the app.
+
+### user_profile.csv
+
+User profile data to be used in the app.
