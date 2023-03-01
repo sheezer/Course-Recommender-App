@@ -17,4 +17,6 @@ The detailed work on the Machine Learning Capstone project can be accessed here:
 
 3. Time taken for the app to run varies from model to model. 
 
-4. The KNN model does not run because of space constraints on the streamlit platform. The code is fine but the required memory for KNN similarity matrix is very large. Therefore, do not use the KNN model.
+4. The KNN model does not run because of space constraints on the streamlit platform. The code is fine but the required memory for KNN similarity matrix is very large. Therefore, **do not use the KNN model**.
+
+###
